@@ -1,0 +1,43 @@
+# --- Основные папки Unity ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# --- Файлы Visual Studio / JetBrains Rider / VS Code ---
+[Aa]ssets/Plugins/Editor/JetBrains*
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.db
+*.VC.db
+
+# --- Системные файлы ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Кэш и логи ---
+*.log
+SysTotals
+MemoryCaptures/
+Recordings/
+
+# --- Плагины (опционально) ---
+# Раскомментируй, если используешь Asset Store Tools
+# /[Aa]ssets/AssetStoreTools*
